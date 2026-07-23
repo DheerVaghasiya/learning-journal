@@ -1,6 +1,6 @@
 # LLM Engineering Fundamentals — Transformers, Tokens, and the Illusion of Memory
 
-*Day X of my learning journal — Ed Donner's LLM Engineering course ([Week 1, Day 4](https://github.com/ed-donner/llm_engineering/blob/main/week1/day4.ipynb))*
+*Day 4 of my learning journal — Ed Donner's LLM Engineering course ([Week 1, Day 4](https://github.com/ed-donner/llm_engineering/blob/main/week1/day4.ipynb))*
 
 This is the note where things stopped being "call an API and get text back" and started being "okay but what is actually happening inside that black box." Writing this one carefully because everything else in LLM engineering — prompting, RAG, agents, fine-tuning — sits on top of these fundamentals.
 
